@@ -1,0 +1,5 @@
+﻿All packages are already installed and there is nothing to restore.
+NuGet package restore finished.
+1>------ Build started: Project: BillCSVtoQuickBooks, Configuration: Release Any CPU ------
+1>  BillCSVtoQuickBooks -> C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\BillCSVtoQuickBooks.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

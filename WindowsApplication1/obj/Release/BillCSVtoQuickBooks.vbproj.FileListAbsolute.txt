@@ -1,0 +1,15 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\BillCSVtoQuickBooks.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\BillCSVtoQuickBooks.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\BillCSVtoQuickBooks.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Release\BillCSVtoQuickBooks.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Interop.QBFC13Lib.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.vbproj.ResolveComReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.Form1.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.Resources.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.vbproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.vbprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.Form2.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Release\BillCSVtoQuickBooks.Form3.resources

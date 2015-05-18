@@ -1,0 +1,12 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.QBFC13Lib.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CSVtoQuickBooks.vbproj.ResolveComReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\CSVtoQuickBooks.vbproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
